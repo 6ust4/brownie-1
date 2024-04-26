@@ -1,0 +1,148 @@
+/* RESET */
+h1,h2,h3,h4{
+    margin: 0;
+}
+
+/* RESET */
+*{
+    font-family: "Roboto", sans-serif;
+}
+
+body{
+background-color: #f0f0f0;
+padding: 24px;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.title {
+color: #FF6A28;
+font-size: 20px;
+text-transform: uppercase;
+}
+
+h2{
+font-size: 16px;
+color:#61656D ;
+margin-top: 5px;
+}
+.box{
+background-color: #ffff;
+width: 798px;
+border-radius: 5px;
+
+padding: 20px;
+box-sizing: border-box;
+}
+.image{
+    margin-top: 14px;
+    width: 100%;
+}
+.card-box {
+width: 118px;
+height: 85px;
+background-color: #f0f0f0;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.card-title{
+color: #61656D;
+font-weight: 400;
+text-transform: uppercase;
+font-size: 14px;
+margin-top: 8px;
+}
+
+.card-info{
+color: #FF6A28;
+font-size: 14px;
+font-weight: 700;
+margin-top: 6px;
+}
+
+.icon{
+    width: 20px;
+}
+.wrapr{
+display: flex;
+justify-content: space-between;
+margin-top: 10px;
+}
+.owner-box{
+width: 238px;
+height: 85px;
+background-color: #f0f0f0;
+border-radius: 5px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.owner-image{
+width: 60px;
+height: 60px;
+}
+
+.owner-wrapper{
+display: flex;
+flex-direction: column;
+margin-left: 11px;
+}
+.owner-name{
+color: #FF6A28;
+font-weight: 700;
+font-size: 14px;
+}
+.owner-title{
+color: #61656D;
+font-size: 14px;
+}
+.ingrediens-box{
+margin-top: 37px;
+}
+.title-wrapper{
+display: flex;
+align-items: center;
+width: 100%;
+justify-content: center;
+}
+.icon-title{
+margin-left: 8px;
+}
+ .list{
+list-style-position: inside;
+margin-top: 12px;
+ }
+ .list-item{
+    margin-bottom: 10px;
+    color: #61656D;
+ }
+ .preparation-box{
+margin-top: 16px;
+ }
+ .preparation-item{
+    margin-bottom: 20px;
+ }
+ .add-info-box{
+margin-top: 16px;
+
+
+ }
+ .secundary-title{
+    background-color: #f0f0f0;
+    padding: 8px;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #61656D;
+    text-align: center;
+
+ }
+ .add-info-text{
+    margin-top: 16px;
+ }
+ .add-info-box p {
+    color: #61656D;
+    font-size: 14px;
+ }
